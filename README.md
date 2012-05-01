@@ -1,3 +1,8 @@
+#Intro#
+This is my vim config adapted from [https://github.com/neerajdotname/vim](https://github.com/neerajdotname/vim)
+I have supplemented it with the Janus vim distribution.
+Thanks Guys!
+
 #How to get started with mvim#
 
 * Install [macvim](http://code.google.com/p/macvim)
