@@ -1,7 +1,7 @@
-#Intro#
-* This is my vim config adapted from [https://github.com/neerajdotname/vim](https://github.com/neerajdotname/vim)
-* I have supplemented it with the Janus vim distribution.
-* Thanks Guys!
+##Intro##
+This is my vim config adapted from [https://github.com/neerajdotname/vim](https://github.com/neerajdotname/vim)
+I have supplemented it with the Janus vim distribution.
+Thanks Guys!
 
 #How to get started with mvim#
 
