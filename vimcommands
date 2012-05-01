@@ -1,0 +1,29 @@
+Undo : u
+Redo ctl-r
+Create New line : o
+to yank/copy: yy
+to paste : p
+to go to end of file : shift g
+to go to end of line : $
+to go UUto start of line : 0
+visual mode : v
+indent use : < or >
+delete character : x
+delete word : dw
+delete line : dd
+delete word and insert : cw
+indent whole file : gg=G
+go n lines up : 5k
+go 5 characters left : 5h
+clear highlighting : :noh
+copy a word : yw
+copy from cursor to end of line : y$
+go to line : 5G
+delete 2 lines : d2d
+Select All in visual mode : ggVG
+Append at end of word : ea
+Enter replace mode : R
+Replace one character : r
+Join line below with line above : J
+Choose from autocomplete : ctrl p
+Jump to matching parenthesis : %
